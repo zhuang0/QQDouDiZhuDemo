@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">MyCard</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_my_five">斗地主</string>
+
+</resources>
